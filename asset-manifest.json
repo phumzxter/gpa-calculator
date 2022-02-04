@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gpa-calculator/static/css/main.9f8bb841.css",
+    "main.js": "/gpa-calculator/static/js/main.9b76bdf5.js",
+    "index.html": "/gpa-calculator/index.html",
+    "main.9f8bb841.css.map": "/gpa-calculator/static/css/main.9f8bb841.css.map",
+    "main.9b76bdf5.js.map": "/gpa-calculator/static/js/main.9b76bdf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f8bb841.css",
+    "static/js/main.9b76bdf5.js"
+  ]
+}
